@@ -1,4 +1,9 @@
-## Hi there 👋
+## Software Developer
+
+Background em Engenharia Civil  
+
+**PHP | Python | JavaScript**  
+Automações | APIs | Dados
 
 <div align="center">
 
